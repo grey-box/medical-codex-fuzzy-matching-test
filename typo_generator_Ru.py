@@ -17,6 +17,7 @@ def typo_generator(medlist):
                 error = random.randint(0, 2)
                 numbererrors = random.randint(1, 3)
                 t = target
+                typo = None
                 for j in range(1, numbererrors):
                     b = random.randint(0, a - 1)
                     if error == 2:
