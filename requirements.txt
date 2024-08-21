@@ -1,0 +1,4 @@
+fonetika==1.4.9
+fuzzywuzzy==0.18.0
+numpy==2.1.0
+pandas==2.2.2
